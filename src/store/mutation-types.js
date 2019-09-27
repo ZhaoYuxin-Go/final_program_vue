@@ -1,0 +1,5 @@
+export const CHANGE_BOOLEAN = 'change_boolean'
+export const GET_SHOPINDEX = 'get_shopIndex'
+export const GET_SHOPS = 'get_shops'
+export const HOT_SHOP_SEARCH = 'hot_shop_search'
+export const PUSH_DISCOVER_TITLE = 'push_discover_title'
